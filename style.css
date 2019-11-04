@@ -2,3 +2,10 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+#header {
+    position: static;
+    height: 30px;
+    background: white;
+    color: orange;
+}
+
